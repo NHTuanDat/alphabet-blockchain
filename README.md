@@ -2,12 +2,19 @@
 
 1. [Introduction](#1-introduction)
 2. [How to use](#2-how-to-use)
+
    2.1 [Install geth](#21-install-geth)
+
    2.2 [Create nodes](#22-create-nodes)
+
    2.3 [Setup genesis block](#23-setup-genesis-block)
+
    2.4 [Initializing the Geth Database](#24-initializing-the-geth-database)
+
    2.3 [Bootnode](#25-boot-node)
+
    2.3 [Copy startnode script](#26-copy-startnode-script)
+
    2.3 [Run the scripts](#27-run-the-scripts)
 
 ## 1. Introduction
