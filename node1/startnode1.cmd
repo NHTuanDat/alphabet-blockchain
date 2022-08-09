@@ -1,0 +1,1 @@
+geth --datadir . --networkid 6991 --bootnodes enode://606160be35dc09f90010ad641863e47e8b536b74b90320179f86a133415772cdad3578bcd1772ebba754f5132c79d1d17dd682500db3f74d7f331d43e15f5e98@127.0.0.1:0?discport=30301 --mine --miner.threads 1 --port "30313" --nat "any" --authrpc.port "8553" --allow-insecure-unlock --unlock 0 --password "./.password" --ipcdisable console
